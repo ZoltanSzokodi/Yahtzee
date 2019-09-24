@@ -28,7 +28,8 @@ h2 {
 }
 
 .Game-reroll {
-  font-size: 2em;
+  font-size: 1.25em;
+  padding: .2em;
   color: white;
   font-weight: 100;
   transition: 0.5s;
@@ -69,6 +70,7 @@ h2 {
 }
 
 .Game-header {
+  text-align: center;
   width: 100%;
   background: linear-gradient(-45deg, #673ab7, #9c27b0);
   background-size: 400% 400%;
